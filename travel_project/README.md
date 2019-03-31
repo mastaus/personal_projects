@@ -1,6 +1,6 @@
 # Let's travel the world!
 
-![Road Trip Picture](./roadtrip.jpg)
+![Road Trip Picture](./images/roadtrip.JPG)
 
 ### Project Goal:
 I would like to have a quick and easy way to find obscure, yet interesting, places to visit while I'm planning my future trips

@@ -16,5 +16,3 @@ I would like to have a quick and easy way to find obscure, yet interesting, plac
 7. To be continue...
 
 ### Work notes:
-
-*

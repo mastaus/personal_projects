@@ -105,6 +105,6 @@ venv.bak/
 
 #Added custom flags
 .DS_Store
-datasets/poi.csv
-datasets/countries_of_the_world.csv
+travel_project/datasets/poi.csv
+travel_project/datasets/countries_of_the_world.csv
 .ipynb_checkpoints

@@ -16,3 +16,10 @@ I would like to have a quick and easy way to find obscure, yet interesting, plac
 7. To be continue...
 
 ### Work notes:
+
+* Convert radian lat/longs to degrees for plotting with folium :white_check_mark:
+* Assign each point of interest to a country
+* Assign each point of interest to a region or a state
+* Assign each point of interest to a city (if applicable)
+* Understand missing data points (if any)
+* Using NLP and clustering techniques, group the names / links / categories together to define a eventually assign a broader category (e.g. mountains, lakes, famous building, etc.)

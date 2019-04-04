@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Added custom flags
+.DS_Store
+datasets/poi.csv
+datasets/countries_of_the_world.csv
+.ipynb_checkpoints

@@ -21,6 +21,8 @@
 1. Create a function to add a record to **people** database **DONE**
 2. Create a function to add a record to **events** database **DONE**
 	* Make sure to remove white-space from the input
+	* Decide which columns are **not** allowed to be *None*
+	* Fix full name in the functions (it will never come in as full name, only first_name, last_name)
 3. Create a function to change a record in **people** db
 4. Create a function to change a record in **events** db
 	* Make sure to remove white-space from the input

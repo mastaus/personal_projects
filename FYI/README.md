@@ -18,8 +18,8 @@
 
 
 **Plan of action:**
-1. Create a function to add a record to **people** database
-2. Create a function to add a record to **events** database
+1. Create a function to add a record to **people** database **DONE**
+2. Create a function to add a record to **events** database **DONE**
 	* Make sure to remove white-space from the input
 3. Create a function to change a record in **people** db
 4. Create a function to change a record in **events** db

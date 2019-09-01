@@ -1,0 +1,44 @@
+body{
+  background-color: #D8DCFF;
+  font-family: 'Calibri';
+}
+
+#directions{
+    background-color: #C38D94;
+}
+
+
+#ajax-contact{
+    padding: 20;
+    font-size: 20;
+}
+
+#submit{
+    margin-left: 35;
+    margin-top: 20;
+    font-size: 25;
+}
+
+h1{
+    margin-top: 15;
+    margin-left: 25;
+    margin-right: 25;
+    font-size: 36;
+}
+
+p{
+    margin-right: 20;
+    font-size: 18;
+    margin-bottom: 20;
+    margin-left: 25;
+}
+
+label {
+    display: inline-block;
+    width: 130px;
+    text-align: right;
+}
+
+#form-messages{
+    margin-left: 40;
+}

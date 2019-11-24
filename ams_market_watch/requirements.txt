@@ -1,0 +1,9 @@
+numpy
+pandas
+pickle
+datetime
+matplotlib
+seaborn
+selenium
+bs4
+flask

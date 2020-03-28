@@ -1,8 +1,14 @@
 numpy
 pandas
 pickle
+re
 datetime
+time
 matplotlib
 seaborn
+os
+dotenv
+requests
 selenium
+sqlite3
 flask

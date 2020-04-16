@@ -19,6 +19,7 @@ google_profile, username, secret_ms, secret_f, secret_g, webdriver_loc, url, log
 7. Separate rooms field and bedrooms field into two different columns (both converted into integers) :thumbsup:
 8. Create bathtub flag
 9. Separate number of bathrooms and toilets into different columns :thumbsup:
-10. Separate number of baths, showers and toilets
+10. Separate number of baths, showers and toilets :thumbsup:
 11. Create python files to store functions into (rather than in jupyter notebook directly) and simply import them
-12. 
+12. Finish the code that sets cookies preferences :thumbsup:
+13. Write the insert into database table function that inserts only records that do not already exist
